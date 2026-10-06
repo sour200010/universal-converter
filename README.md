@@ -121,15 +121,3 @@ Rate Limiting: Guarded by slowapi to prevent bot spam and denial-of-service abus
 
 📄 License
 Distributed under the MIT License. Free for personal, educational, and open-source usage.
-
-
----
-
-### How to Save & Push It to GitHub
-
-Run these commands in your VS Code terminal (from the project root folder):
-
-```powershell
-git add README.md
-git commit -m "docs: add comprehensive README with setup and user instructions"
-git push origin main
